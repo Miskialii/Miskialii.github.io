@@ -5,7 +5,7 @@ Miski Ali - Portfolio
 <h2>👨‍💻 Student Projects:</h2>
 
 - <b>Python, game of life (Object-oriented programming in python)</b>
-  - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/Miskialii/GameOfLife)
     
 - <b> Java, threads (looking for and treating patterns in immune repertoires)</b>
   - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
