@@ -11,7 +11,7 @@ Miski Ali - Portfolio
   - (https://github.com/Miskialii/JavaThreadsLinkedLists)
   
 - <b>UX design project report</b>
-  - (https://github.com/joshmadakor1/EncrypterPOC)
+  - (https://github.com/Miskialii/ICU/blob/main/README.md)
   
 - <b>Arduino, UX design technical report</b>
   - (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
@@ -19,6 +19,10 @@ Miski Ali - Portfolio
 
 
 <h2> 🤳 Connect with me:</h2>
+
+<b> Mail: Miskimali@outlook.com</b>
+
+<b> Phone: 45391408</b>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
