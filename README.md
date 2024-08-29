@@ -8,7 +8,7 @@ Miski Ali - Portfolio
   - (https://github.com/Miskialii/GameOfLife)
     
 - <b> Java, threads (looking for and treating patterns in immune repertoires)</b>
-  - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - (https://github.com/Miskialii/JavaThreadsLinkedLists)
   
 - <b>UX design project report</b>
   - (https://github.com/joshmadakor1/EncrypterPOC)
